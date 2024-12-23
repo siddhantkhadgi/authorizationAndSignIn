@@ -1,0 +1,28 @@
+annotated-types @ file:///croot/annotated-types_1709542908624/work
+anyio @ file:///croot/anyio_1729121277521/work
+bcrypt @ file:///work/perseverance-python-buildout/croot/bcrypt_1698864043363/work
+cffi @ file:///croot/cffi_1726856441404/work
+click @ file:///work/perseverance-python-buildout/croot/click_1698845879718/work
+dnspython==2.7.0
+ecdsa==0.19.0
+email_validator==2.2.0
+fastapi @ file:///croot/fastapi_1724789151288/work
+h11 @ file:///croot/h11_1706652277403/work
+idna @ file:///croot/idna_1714398848350/work
+motor==3.6.0
+passlib==1.7.4
+pyasn1==0.6.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pydantic @ file:///croot/pydantic_1734736067156/work
+pydantic_core @ file:///croot/pydantic-core_1734726052986/work
+pymongo==4.9.2
+python-jose==3.3.0
+python-multipart==0.0.20
+rsa==4.9
+setuptools==75.1.0
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio @ file:///croot/sniffio_1705431295498/work
+starlette @ file:///croot/starlette-recipe_1724683205298/work
+typing_extensions @ file:///croot/typing_extensions_1734714854207/work
+uvicorn @ file:///croot/uvicorn-split_1732660726596/work
+wheel==0.44.0
